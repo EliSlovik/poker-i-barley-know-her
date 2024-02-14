@@ -15,4 +15,14 @@ Create a class diagram to include all variables and methods
 
 ### Classes:
 * main
-  * calc hand strength
+  * constructor method
+  * deal card
+* calc hand strength
+  * Royal flush check
+  * Straight flush check
+  * four of a kind check
+  * flush check
+  * straigh check
+  * three of a kind check
+  * two pair check
+  * pair chech
