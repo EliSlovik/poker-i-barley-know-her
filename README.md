@@ -26,3 +26,23 @@ Create a class diagram to include all variables and methods
   * three of a kind check
   * two pair check
   * pair chech
+
+
+
+
+Class Diagram   HAND ---------> CARDS________>DEALER HAND
+                  |               |             |      \\
+                  |               |             | 
+                  |                |             |
+                  CARD number     VALUES        DEALER VALUE
+                   |                 |               |                       
+                    |                 |               |
+                    ALL CARDS       VALUE TOTAL      DEALER TOTAL VALUE
+                                       |                | 
+                                        |                |
+                                        |                |
+                                        --------|---------
+                                                 |
+                                                 |
+                                                 |
+                                                 WINNER ------------>PAYOUT
