@@ -10,5 +10,5 @@ A chair, a ladder, and a phone are playing poker, the ladder says, "I raise", th
 
 
 ### Classes:
-main
-calc hand strength
+* main
+* calc hand strength
