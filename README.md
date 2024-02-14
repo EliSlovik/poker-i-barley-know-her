@@ -15,4 +15,4 @@ Create a class diagram to include all variables and methods
 
 ### Classes:
 * main
-..* calc hand strength
+.. * calc hand strength
