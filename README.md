@@ -30,19 +30,20 @@ Create a class diagram to include all variables and methods
 
 
 
-Class Diagram   HAND ---------> CARDS________>DEALER HAND
-                  |               |             |      \\
-                  |               |             | 
-                  |                |             |
-                  CARD number     VALUES        DEALER VALUE
-                   |                 |               |                       
-                    |                 |               |
-                    ALL CARDS       VALUE TOTAL      DEALER TOTAL VALUE
-                                       |                | 
-                                        |                |
-                                        |                |
-                                        --------|---------
-                                                 |
-                                                 |
-                                                 |
-                                                 WINNER ------------>PAYOUT
+##Class Diagram   
+*HAND ---------> CARDS________>DEALER HAND
+                  *|               |             |      \\
+                  *|               |             | 
+                  *|                |             |
+                 * CARD number     VALUES        DEALER VALUE
+                   *|                 |               |                       
+                    *|                 |               |
+                    *ALL CARDS       VALUE TOTAL      DEALER TOTAL VALUE
+                                      * |                | 
+                                       * |                |
+                                        *|                |
+                                       * --------|---------
+                                               *  |
+                                                * |
+                                                 *|
+                                                 *WINNER ------------>PAYOUT
