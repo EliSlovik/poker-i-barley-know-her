@@ -28,22 +28,6 @@ Create a class diagram to include all variables and methods
   * pair chech
 
 
+#### CLAss DIAGRAM: <img width="575" alt="Screenshot 2024-02-21 at 12 09 47 PM" src="https://github.com/EliSlovik/poker-i-barley-know-her/assets/142624511/c3ba6593-4ca6-43d0-838d-61a51b442697">
 
-
-##Class Diagram   
-*HAND ---------> CARDS________>DEALER HAND
-                  *|               |             |      \\
-                  *|               |             | 
-                  *|                |             |
-                 * CARD number     VALUES        DEALER VALUE
-                   *|                 |               |                       
-                    *|                 |               |
-                    *ALL CARDS       VALUE TOTAL      DEALER TOTAL VALUE
-                                      * |                | 
-                                       * |                |
-                                        *|                |
-                                       * --------|---------
-                                               *  |
-                                                * |
-                                                 *|
-                                                 *WINNER ------------>PAYOUT
+                                               
