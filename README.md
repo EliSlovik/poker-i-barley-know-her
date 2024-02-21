@@ -13,7 +13,7 @@ Write each known class for project (class name, constructor, member variables an
 Write and test the main class play screen including all items from the GUI mockup i.e. score panel, grid layout, map or whatever is going to be rendered in the running of the app outside of start screen and end screen
 Create a class diagram to include all variables and methods
 
-### Classes:
+### Classes and methods:
 * main
   * constructor method
   * deal card
