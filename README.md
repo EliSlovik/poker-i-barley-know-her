@@ -31,4 +31,4 @@ Create a class diagram to include all variables and methods
 #### CLAss DIAGRAM: <img width="575" alt="Screenshot 2024-02-21 at 12 09 47 PM" src="https://github.com/EliSlovik/poker-i-barley-know-her/assets/142624511/c3ba6593-4ca6-43d0-838d-61a51b442697">
 
 Repl project:                                               
-https://replit.com/@9730561/Poker-I-Barely-nower-1#main.py
+https://replit.com/@9730820/Poker-I-Barely-nower#main.py
