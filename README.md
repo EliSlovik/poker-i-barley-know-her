@@ -14,6 +14,7 @@ Write and test the main class play screen including all items from the GUI mocku
 Create a class diagram to include all variables and methods
 
 ### Classes and methods:
+
 * main
   * constructor method
   * deal card
@@ -28,7 +29,8 @@ Create a class diagram to include all variables and methods
   * pair chech
 
 
-#### CLAss DIAGRAM: <img width="575" alt="Screenshot 2024-02-21 at 12 09 47 PM" src="https://github.com/EliSlovik/poker-i-barley-know-her/assets/142624511/c3ba6593-4ca6-43d0-838d-61a51b442697">
+#### CLAss DIAGRAM:<img width="627" alt="Screenshot 2024-03-13 at 11 39 56 AM" src="https://github.com/EliSlovik/poker-i-barley-know-her/assets/142624511/18602671-2c17-4dfe-87b0-c4e70470ee5f">
+ 
 
 Repl project:                                               
 https://replit.com/@9730820/Poker-I-Barely-nower#main.py
