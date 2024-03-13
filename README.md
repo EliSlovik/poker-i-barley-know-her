@@ -8,6 +8,9 @@ https://replit.com/@9730820/poker-barley-thing#main.py
 
 A chair, a ladder, and a phone are playing poker, the ladder says, "I raise", the phone thinks for a second, then says, "I call", then, the chair thinks for a while, and disgruntily says, "I fold"
 
+What's the difference between a large pizza and a poker player?
+Large pizza can feed a family of four, a poker player can't.
+
 ### Classes and methods:
 
 * main
