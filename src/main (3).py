@@ -15,10 +15,10 @@ undealtCards = [
     "King of Diamonds", "Queen of Diamonds", "Jack of Diamonds",
     "Ten of Diamonds", "Nine of Diamonds", "Eight of Diamonds",
     "Seven of Diamonds", "Six of Diamonds", "Five of Diamonds",
-    "Four of Diamonds", "Three of Diamonds", "two of Diamonds", "Hypatia of alexandria", "John of Cena" ]
+    "Four of Diamonds", "Three of Diamonds", "two of Diamonds"]
 
 #print(undealtCards)
-bankAM = 1000
+# bankAM = 1000
 x = 0
 # heartCount = 0
 # spadeCount = 0
@@ -36,8 +36,6 @@ def dealCard():
   
 def shuffleDeck():
   random.shuffle(undealtCards)
-  x = 0
-
 
 shuffleDeck()
 # bet_amount = int(input("How much would you like to bet? "))
